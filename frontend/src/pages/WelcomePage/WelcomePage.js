@@ -1,6 +1,5 @@
 import React from "react";
 import "./selPage.css";
-import Typography from "@mui/material/Typography";
 const WelcomePage = () => {
   return (
     <>
